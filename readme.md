@@ -29,7 +29,7 @@ Find the result tree, leaves and k-graph files in the directory `ckpts` in UPMEM
 
 ## Reference
 
-If you feel this repo is useful for you, not hesitate to star this!😀 And it is really kind of you to cite this repo in your paper or project.
+If you feel this repo is useful for you, don't hesitate to star this!😀 And it is really kind of you to cite this repo in your paper or project.
 
 If you feel GCiM is interesting, please cite:
 
