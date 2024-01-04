@@ -18,7 +18,7 @@ Change the parameter `-p` in the Makefile in UPMEM_d or UPMEM_h. The default one
 
 ## How to check the results
 
-Find the result tree, leaves and k-graph files in the directory `ckpts` in UPMEM_d or UPMEM_h if you run the example `run.sh`
+Find the result tree, leaves and k-graph files in the directory `ckpts` and the performance and energy consumption in `build/output.txt` in UPMEM_d or UPMEM_h if you run the example `run.sh`. 
 
 ## Thanks
 
