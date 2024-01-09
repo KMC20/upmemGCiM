@@ -1,6 +1,6 @@
 # UPMEM Implementations for GCiM (Graph Construction in Memory)
 
-This repo provides two implementations for GCiM (Graph Construction in Memory) for nearest neighbor search in high dimension space. The version in UPMEM_d constructs the tree structure on the host side while the other in UPMEM_h constructs the tree structure on DPU side. Both construct subgraphs on DPU side.
+This repo provides two implementations for GCiM (Graph Construction in Memory) for nearest neighbor search in high dimension space. The version in UPMEM_d constructs the tree structure on DPU side while the other in UPMEM_h constructs the tree structure on the host side. Both construct subgraphs on DPU side.
 
 ## How to test
 
