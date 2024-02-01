@@ -22,9 +22,9 @@ Find the result tree, leaves and k-graph files in the directory `ckpts` and the 
 
 ## Thanks
 
- * Library of priority queue. The implementations of priority queue in `dpu/libpqueue` in UPMEM_d and UPMEM_h are modified to suit the demands of UPMEM from the implementaion here: https://github.com/vy/libpqueue
- * Pseudo random generator. The implementation of `randGen` in `UPMEM_d/dpu/src/tree.c` for pseudo random generation is modified from the implementaion here: https://github.com/0/msp430-rng
- * MSR fetching. The implementations of `rdmsr` and related functions in `host/measureEnergy.c` in UPMEM_d and UPMEM_h for energy measurement are modified from the implementaion here: https://github.com/lixiaobai09/intel_power_consumption_get/blob/master/powerget.c
+ * Library of priority queue. The implementations of priority queue in `dpu/libpqueue` in UPMEM_d and UPMEM_h are modified to suit the demands of UPMEM from the implementation here: https://github.com/vy/libpqueue
+ * Pseudo random generator. The implementation of `randGen` in `UPMEM_d/dpu/src/tree.c` for pseudo random generation is modified from the implementation here: https://github.com/0/msp430-rng
+ * MSR fetching. The implementations of `rdmsr` and related functions in `host/measureEnergy.c` in UPMEM_d and UPMEM_h for energy measurement are modified from the implementation here: https://github.com/lixiaobai09/intel_power_consumption_get/blob/master/powerget.c
  * The basic directory structure of the repo is learned from the UPIS project: https://github.com/upmem/usecase_UPIS
 
 ## Reference
